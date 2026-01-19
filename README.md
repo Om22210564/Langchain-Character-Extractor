@@ -17,7 +17,6 @@ This project extracts structured information about characters from stories using
 
 The dataset contains multiple story files (`.txt`), one per story.
 
-- The first line of each file is used as the story title.
 - The dataset is referenced as a submodule and should be cloned separately or downloaded as instructed.
 
 ## Example Structure
