@@ -31,7 +31,13 @@ Dataset/
         ├── the-poor-relations-story.txt
         └── the-schoolmistress.txt
 ```
-"The dataset is referenced as a submodule. It should be cloned separately or downloaded as instructed."
+"The dataset ([LangChain Assignment Dataset](https://github.com/deep-stack/langchain-assignment-dataset)) is referenced as a submodule. It should be cloned separately or downloaded as instructed."
+
+Download or clone it separately into the `Dataset/langchain-assignment-dataset` folder:
+
+```bash
+git clone https://github.com/deep-stack/langchain-assignment-dataset.git Dataset/langchain-assignment-dataset
+```
 
 ## Setup
 
